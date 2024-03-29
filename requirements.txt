@@ -2,5 +2,5 @@ flask
 requests
 transformers
 jax[cpu]
-
+flax
 
